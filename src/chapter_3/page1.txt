@@ -4,3 +4,6 @@ Hello, new day
 Working on chapter 3
 
 This page 1
+
+new text for this page 
+working day 3
